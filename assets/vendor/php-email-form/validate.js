@@ -82,5 +82,5 @@
     thisForm.querySelector('.error-message').classList.add('d-block');
   }
 
-})();`n073c363daf6af2ecee22778026f5da1dd5582d39
+})();
 
