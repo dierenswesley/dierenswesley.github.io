@@ -249,7 +249,6 @@ h6 {
   background-color: color-mix(in srgb, var(--accent-color) 90%, black 15%);
 }
 
-<<<<<<< HEAD
 .sidebar-toggle {
   border-color: var(--accent-color);
   color: var(--accent-color);
@@ -270,9 +269,6 @@ h6 {
     left: -100%;
   }
 }
-
-=======
->>>>>>> 073c363daf6af2ecee22778026f5da1dd5582d39
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
@@ -4227,6 +4223,4 @@ section,
 
 .competences .competence-filters li.filter-active::after {
   width: 100%;
-=======
->>>>>>> 073c363daf6af2ecee22778026f5da1dd5582d39
 }
