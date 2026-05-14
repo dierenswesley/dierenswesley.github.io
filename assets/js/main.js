@@ -12,6 +12,7 @@
   /**
    * Header toggle
    */
+<<<<<<< HEAD
   const headerToggleBtns = document.querySelectorAll('.header-toggle, .sidebar-toggle');
 
   function headerToggle() {
@@ -30,6 +31,16 @@
   }
 
   headerToggleBtns.forEach(btn => btn.addEventListener('click', headerToggle));
+=======
+  const headerToggleBtn = document.querySelector('.header-toggle');
+
+  function headerToggle() {
+    document.querySelector('#header').classList.toggle('header-show');
+    headerToggleBtn.classList.toggle('bi-list');
+    headerToggleBtn.classList.toggle('bi-x');
+  }
+  headerToggleBtn.addEventListener('click', headerToggle);
+>>>>>>> 073c363daf6af2ecee22778026f5da1dd5582d39
 
   /**
    * Hide mobile nav on same-page/hash links
