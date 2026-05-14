@@ -210,14 +210,11 @@ h6 {
   .header~#footer {
     margin-left: 310px;
   }
-<<<<<<< HEAD
 
   .header.header-hidden ~ main,
   .header.header-hidden ~ #footer {
     margin-left: 0;
   }
-=======
->>>>>>> 073c363daf6af2ecee22778026f5da1dd5582d39
 }
 
 @media (max-width: 1199px) {
