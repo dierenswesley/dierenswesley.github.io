@@ -1,4 +1,4 @@
-
+<<<<<<< HEAD
 /**
 * PHP Email Form Validation - v3.11
 * URL: https://bootstrapmade.com/php-email-form/
@@ -84,6 +84,7 @@
   }
 
 })();
+=======
 /**
 * PHP Email Form Validation - v3.11
 * URL: https://bootstrapmade.com/php-email-form/
@@ -169,3 +170,4 @@
   }
 
 })();
+>>>>>>> 073c363daf6af2ecee22778026f5da1dd5582d39
